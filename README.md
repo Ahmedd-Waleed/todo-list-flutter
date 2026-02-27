@@ -12,11 +12,11 @@ A simple To-Do List (Goals App) built with **Flutter**.
 - Auto timestamp for each goal
 - Progress tracker (X/Y goals completed)
 
-## 🛠️ Built With
+## Built With
 
 - Flutter 3.41.2
 - Dart 3.11.0
 
-## 👤 Author
+## Author
 
 Ahmed Waleed Mohammed Mostafa
