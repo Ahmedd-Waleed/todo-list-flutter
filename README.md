@@ -1,5 +1,3 @@
-# todo-list-flutter
-To-Do List App built with Flutter - Mobile Computing Lab 01
 # To-Do List App
 
 A simple To-Do List (Goals App) built with **Flutter**.
